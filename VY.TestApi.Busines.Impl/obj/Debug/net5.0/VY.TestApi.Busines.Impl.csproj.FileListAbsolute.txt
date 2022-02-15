@@ -1,0 +1,15 @@
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\VY.TestApi.Busines.Impl.deps.json
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\VY.TestApi.Busines.Impl.runtimeconfig.json
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\VY.TestApi.Busines.Impl.runtimeconfig.dev.json
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\VY.TestApi.Busines.Impl.dll
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\ref\VY.TestApi.Busines.Impl.dll
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\VY.TestApi.Busines.Impl.pdb
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\obj\Debug\net5.0\VY.TestApi.Busines.Impl.csproj.AssemblyReference.cache
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\obj\Debug\net5.0\VY.TestApi.Busines.Impl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\obj\Debug\net5.0\VY.TestApi.Busines.Impl.AssemblyInfoInputs.cache
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\obj\Debug\net5.0\VY.TestApi.Busines.Impl.AssemblyInfo.cs
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\obj\Debug\net5.0\VY.TestApi.Busines.Impl.csproj.CoreCompileInputs.cache
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\obj\Debug\net5.0\VY.TestApi.Busines.Impl.dll
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\obj\Debug\net5.0\ref\VY.TestApi.Busines.Impl.dll
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\obj\Debug\net5.0\VY.TestApi.Busines.Impl.pdb
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Impl\obj\Debug\net5.0\VY.TestApi.Busines.Impl.genruntimeconfig.cache

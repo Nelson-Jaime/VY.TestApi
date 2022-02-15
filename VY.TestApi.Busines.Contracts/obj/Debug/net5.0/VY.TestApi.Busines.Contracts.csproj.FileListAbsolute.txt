@@ -1,0 +1,14 @@
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Contracts\bin\Debug\net5.0\VY.TestApi.Busines.Contracts.deps.json
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Contracts\bin\Debug\net5.0\VY.TestApi.Busines.Contracts.dll
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Contracts\bin\Debug\net5.0\ref\VY.TestApi.Busines.Contracts.dll
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Contracts\bin\Debug\net5.0\VY.TestApi.Busines.Contracts.pdb
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Contracts\obj\Debug\net5.0\VY.TestApi.Busines.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Contracts\obj\Debug\net5.0\VY.TestApi.Busines.Contracts.AssemblyInfoInputs.cache
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Contracts\obj\Debug\net5.0\VY.TestApi.Busines.Contracts.AssemblyInfo.cs
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Contracts\obj\Debug\net5.0\VY.TestApi.Busines.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Contracts\obj\Debug\net5.0\VY.TestApi.Busines.Contracts.dll
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Contracts\obj\Debug\net5.0\ref\VY.TestApi.Busines.Contracts.dll
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Contracts\obj\Debug\net5.0\VY.TestApi.Busines.Contracts.pdb
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Contracts\bin\Debug\net5.0\VY.TestApi.Busines.Contracts.runtimeconfig.json
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Contracts\bin\Debug\net5.0\VY.TestApi.Busines.Contracts.runtimeconfig.dev.json
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Busines.Contracts\obj\Debug\net5.0\VY.TestApi.Busines.Contracts.genruntimeconfig.cache

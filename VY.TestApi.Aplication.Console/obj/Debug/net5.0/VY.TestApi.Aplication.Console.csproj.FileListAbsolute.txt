@@ -1,0 +1,15 @@
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\bin\Debug\net5.0\VY.TestApi.Aplication.Console.deps.json
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\bin\Debug\net5.0\VY.TestApi.Aplication.Console.runtimeconfig.json
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\bin\Debug\net5.0\VY.TestApi.Aplication.Console.runtimeconfig.dev.json
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\bin\Debug\net5.0\VY.TestApi.Aplication.Console.dll
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\bin\Debug\net5.0\ref\VY.TestApi.Aplication.Console.dll
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\bin\Debug\net5.0\VY.TestApi.Aplication.Console.pdb
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\obj\Debug\net5.0\VY.TestApi.Aplication.Console.csproj.AssemblyReference.cache
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\obj\Debug\net5.0\VY.TestApi.Aplication.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\obj\Debug\net5.0\VY.TestApi.Aplication.Console.AssemblyInfoInputs.cache
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\obj\Debug\net5.0\VY.TestApi.Aplication.Console.AssemblyInfo.cs
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\obj\Debug\net5.0\VY.TestApi.Aplication.Console.csproj.CoreCompileInputs.cache
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\obj\Debug\net5.0\VY.TestApi.Aplication.Console.dll
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\obj\Debug\net5.0\ref\VY.TestApi.Aplication.Console.dll
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\obj\Debug\net5.0\VY.TestApi.Aplication.Console.pdb
+C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.Console\obj\Debug\net5.0\VY.TestApi.Aplication.Console.genruntimeconfig.cache
