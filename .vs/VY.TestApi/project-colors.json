@@ -1,41 +1,11 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "81c10ed5-5c18-45e5-90b1-69d9a9d53e47": {
-      "ProjectGuid": "81c10ed5-5c18-45e5-90b1-69d9a9d53e47",
-      "DisplayName": "VY.TestApi.Aplication.Console",
-      "ColorIndex": 0
-    },
-    "82fe935b-5e48-4bf1-975b-50dcd341c02e": {
-      "ProjectGuid": "82fe935b-5e48-4bf1-975b-50dcd341c02e",
-      "DisplayName": "VY.TestApi.Data.Contracts",
-      "ColorIndex": 1
-    },
-    "3c9f7483-537d-4738-8035-b3416cecd301": {
-      "ProjectGuid": "3c9f7483-537d-4738-8035-b3416cecd301",
-      "DisplayName": "VY.TestApi.Data.Impl",
-      "ColorIndex": 2
-    },
-    "b9985630-04ce-48ac-b6bb-47cf961e76fd": {
-      "ProjectGuid": "b9985630-04ce-48ac-b6bb-47cf961e76fd",
-      "DisplayName": "VY.TestApi.Busines.Contracts",
-      "ColorIndex": 3
-    },
-    "9eaed778-64ab-4e5c-9b33-2d7345dc9a86": {
-      "ProjectGuid": "9eaed778-64ab-4e5c-9b33-2d7345dc9a86",
-      "DisplayName": "VY.TestApi.Busines.Impl",
-      "ColorIndex": 4
-    },
-    "29d5aae0-01db-4eb8-ac3d-3459d89505fd": {
-      "ProjectGuid": "29d5aae0-01db-4eb8-ac3d-3459d89505fd",
-      "DisplayName": "VY.TestApi.Dtos",
-      "ColorIndex": 5
-    },
-    "5c503b4e-002a-4cd3-a086-aa8e2c24a122": {
-      "ProjectGuid": "5c503b4e-002a-4cd3-a086-aa8e2c24a122",
-      "DisplayName": "VY.TestApi.Aplication.WebApi",
-      "ColorIndex": 6
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 0
 }
