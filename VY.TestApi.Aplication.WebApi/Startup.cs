@@ -11,6 +11,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using VY.TestApi.Aplication.Console.Data;
+using VY.TestApi.Busines.Impl.Models;
 
 namespace VY.TestApi.Aplication.WebApi
 {
@@ -28,6 +30,7 @@ namespace VY.TestApi.Aplication.WebApi
         {
 
             services.AddControllers();
+            services.AddDbContext<TestApiDbContext>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "VY.TestApi.Aplication.WebApi", Version = "v1" });

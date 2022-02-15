@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Data.Impl\\VY.TestApi.Data.Impl.csproj": {}
+    "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Data.Impl\\VY.TestApi.Data.Impl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Data.Impl\\VY.TestApi.Data.Impl.csproj": {
+    "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Data.Impl\\VY.TestApi.Data.Impl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Data.Impl\\VY.TestApi.Data.Impl.csproj",
+        "projectUniqueName": "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Data.Impl\\VY.TestApi.Data.Impl.csproj",
         "projectName": "VY.TestApi.Data.Impl",
-        "projectPath": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Data.Impl\\VY.TestApi.Data.Impl.csproj",
-        "packagesPath": "C:\\Users\\yaise\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Data.Impl\\obj\\",
+        "projectPath": "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Data.Impl\\VY.TestApi.Data.Impl.csproj",
+        "packagesPath": "C:\\Users\\nelson.jaime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Data.Impl\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yaise\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\nelson.jaime\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

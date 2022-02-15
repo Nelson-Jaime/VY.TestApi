@@ -1,10 +1,11 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using VY.TestApi.Aplication.Console.Data;
 
 #nullable disable
 
-namespace VY.TestApi.Aplication.Console.Data
+namespace VY.TestApi.Busines.Impl.Models
 {
     public partial class TestApiDbContext : DbContext
     {
@@ -75,7 +76,7 @@ namespace VY.TestApi.Aplication.Console.Data
                     .IsUnicode(false)
                     .HasColumnName("name");
 
-                entity.HasOne(d => d.IdNavigation)
+                entity.HasOne(d => d.fk_Product)
                     .WithOne(p => p.User)
                     .HasForeignKey<User>(d => d.Id)
                     .OnDelete(DeleteBehavior.ClientSetNull)

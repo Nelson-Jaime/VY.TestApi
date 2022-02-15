@@ -4,7 +4,7 @@ using VY.TestApi.Dtos;
 
 #nullable disable
 
-namespace VY.TestApi.Aplication.Console.Data
+namespace VY.TestApi.Dtos
 {
     public partial class ProductDto
     {
