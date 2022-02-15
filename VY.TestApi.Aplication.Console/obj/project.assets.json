@@ -5824,19 +5824,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nelson.jaime\\.nuget\\packages\\": {}
+    "C:\\Users\\yaise\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Aplication.Console\\VY.TestApi.Aplication.Console.csproj",
+      "projectUniqueName": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Aplication.Console\\VY.TestApi.Aplication.Console.csproj",
       "projectName": "VY.TestApi.Aplication.Console",
-      "projectPath": "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Aplication.Console\\VY.TestApi.Aplication.Console.csproj",
-      "packagesPath": "C:\\Users\\nelson.jaime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Aplication.Console\\obj\\",
+      "projectPath": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Aplication.Console\\VY.TestApi.Aplication.Console.csproj",
+      "packagesPath": "C:\\Users\\yaise\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Aplication.Console\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\nelson.jaime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yaise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
