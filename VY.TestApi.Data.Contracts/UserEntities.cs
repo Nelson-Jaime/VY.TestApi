@@ -3,14 +3,14 @@ using System.Collections.Generic;
 
 #nullable disable
 
-namespace VY.TestApi.Aplication.Console.Data
+namespace VY.TestApi.Data.Contracts
 {
-    public partial class User
+    public partial class UserEntities
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
 
-        public virtual Product fk_Product { get; set; }
+        public virtual ProductEntities Fk_Product { get; set; }
     }
 }

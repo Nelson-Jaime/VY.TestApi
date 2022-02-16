@@ -5,33 +5,30 @@ using VY.TestApi.Aplication.Console.Data;
 
 #nullable disable
 
-namespace VY.TestApi.Busines.Impl.Models
+namespace VY.TestApi.Data.Contracts
 {
     public partial class TestApiDbContext : DbContext
     {
-        public TestApiDbContext()
-        {
-        }
-
         public TestApiDbContext(DbContextOptions<TestApiDbContext> options)
             : base(options)
         {
+            Database.EnsureCreated();
         }
 
-        public virtual DbSet<Product> Products { get; set; }
-        public virtual DbSet<User> Users { get; set; }
+        public virtual DbSet<ProductEntities> Products { get; set; }
+        public virtual DbSet<UserEntities> Users { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source=RENT019\\SQLEXPRESS;Initial Catalog=Test_Api;Integrated Security=True");
+                optionsBuilder.UseSqlServer("Server=R029JKV\\SQLEXPRESS;Integrated Security=true;Database=Test_Api;MultipleActiveResultSets=true");
             }
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Product>(entity =>
+            modelBuilder.Entity<ProductEntities>(entity =>
             {
                 entity.ToTable("Product");
 
@@ -56,7 +53,7 @@ namespace VY.TestApi.Busines.Impl.Models
                     .HasColumnName("price");
             });
 
-            modelBuilder.Entity<User>(entity =>
+            modelBuilder.Entity<UserEntities>(entity =>
             {
                 entity.ToTable("User");
 
@@ -76,9 +73,9 @@ namespace VY.TestApi.Busines.Impl.Models
                     .IsUnicode(false)
                     .HasColumnName("name");
 
-                entity.HasOne(d => d.fk_Product)
+                entity.HasOne(d => d.Fk_Product)
                     .WithOne(p => p.User)
-                    .HasForeignKey<User>(d => d.Id)
+                    .HasForeignKey<UserEntities>(d => d.Id)
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FK_User_Product");
             });

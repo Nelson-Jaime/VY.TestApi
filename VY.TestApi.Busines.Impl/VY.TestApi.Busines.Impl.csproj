@@ -17,4 +17,11 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VY.TestApi.Busines.Contracts\VY.TestApi.Busines.Contracts.csproj" />
+    <ProjectReference Include="..\VY.TestApi.Data.Contracts\VY.TestApi.Data.Contracts.csproj" />
+    <ProjectReference Include="..\VY.TestApi.Data.Impl\VY.TestApi.Data.Impl.csproj" />
+    <ProjectReference Include="..\VY.TestApi.Dtos\VY.TestApi.Dtos.csproj" />
+  </ItemGroup>
+
 </Project>

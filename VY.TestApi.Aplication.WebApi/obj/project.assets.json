@@ -1606,7 +1606,40 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "VY.TestApi.Busines.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.InMemory": "5.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
+          "VY.TestApi.Dtos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VY.TestApi.Busines.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VY.TestApi.Busines.Contracts.dll": {}
+        }
+      },
       "VY.TestApi.Busines.Impl/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.InMemory": "5.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
+          "VY.TestApi.Busines.Contracts": "1.0.0",
+          "VY.TestApi.Data.Contracts": "1.0.0",
+          "VY.TestApi.Data.Impl": "1.0.0",
+          "VY.TestApi.Dtos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VY.TestApi.Busines.Impl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VY.TestApi.Busines.Impl.dll": {}
+        }
+      },
+      "VY.TestApi.Data.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -1614,10 +1647,34 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0"
         },
         "compile": {
-          "bin/placeholder/VY.TestApi.Busines.Impl.dll": {}
+          "bin/placeholder/VY.TestApi.Data.Contracts.dll": {}
         },
         "runtime": {
-          "bin/placeholder/VY.TestApi.Busines.Impl.dll": {}
+          "bin/placeholder/VY.TestApi.Data.Contracts.dll": {}
+        }
+      },
+      "VY.TestApi.Data.Impl/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.InMemory": "5.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VY.TestApi.Data.Impl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VY.TestApi.Data.Impl.dll": {}
+        }
+      },
+      "VY.TestApi.Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/VY.TestApi.Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VY.TestApi.Dtos.dll": {}
         }
       }
     }
@@ -6009,10 +6066,30 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "VY.TestApi.Busines.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../VY.TestApi.Busines.Contracts/VY.TestApi.Busines.Contracts.csproj",
+      "msbuildProject": "../VY.TestApi.Busines.Contracts/VY.TestApi.Busines.Contracts.csproj"
+    },
     "VY.TestApi.Busines.Impl/1.0.0": {
       "type": "project",
       "path": "../VY.TestApi.Busines.Impl/VY.TestApi.Busines.Impl.csproj",
       "msbuildProject": "../VY.TestApi.Busines.Impl/VY.TestApi.Busines.Impl.csproj"
+    },
+    "VY.TestApi.Data.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../VY.TestApi.Data.Contracts/VY.TestApi.Data.Contracts.csproj",
+      "msbuildProject": "../VY.TestApi.Data.Contracts/VY.TestApi.Data.Contracts.csproj"
+    },
+    "VY.TestApi.Data.Impl/1.0.0": {
+      "type": "project",
+      "path": "../VY.TestApi.Data.Impl/VY.TestApi.Data.Impl.csproj",
+      "msbuildProject": "../VY.TestApi.Data.Impl/VY.TestApi.Data.Impl.csproj"
+    },
+    "VY.TestApi.Dtos/1.0.0": {
+      "type": "project",
+      "path": "../VY.TestApi.Dtos/VY.TestApi.Dtos.csproj",
+      "msbuildProject": "../VY.TestApi.Dtos/VY.TestApi.Dtos.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6022,7 +6099,9 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3",
-      "VY.TestApi.Busines.Impl >= 1.0.0"
+      "VY.TestApi.Busines.Contracts >= 1.0.0",
+      "VY.TestApi.Busines.Impl >= 1.0.0",
+      "VY.TestApi.Dtos >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6057,8 +6136,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Busines.Contracts\\VY.TestApi.Busines.Contracts.csproj": {
+              "projectPath": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Busines.Contracts\\VY.TestApi.Busines.Contracts.csproj"
+            },
             "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Busines.Impl\\VY.TestApi.Busines.Impl.csproj": {
               "projectPath": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Busines.Impl\\VY.TestApi.Busines.Impl.csproj"
+            },
+            "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Dtos\\VY.TestApi.Dtos.csproj": {
+              "projectPath": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Dtos\\VY.TestApi.Dtos.csproj"
             }
           }
         }
