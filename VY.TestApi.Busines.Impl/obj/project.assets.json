@@ -1566,7 +1566,8 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.InMemory": "5.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
+          "VY.TestApi.Data.Contracts": "1.0.0"
         },
         "compile": {
           "bin/placeholder/VY.TestApi.Data.Impl.dll": {}
@@ -5901,24 +5902,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yaise\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\nelson.jaime\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Busines.Impl\\VY.TestApi.Busines.Impl.csproj",
+      "projectUniqueName": "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Busines.Impl\\VY.TestApi.Busines.Impl.csproj",
       "projectName": "VY.TestApi.Busines.Impl",
-      "projectPath": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Busines.Impl\\VY.TestApi.Busines.Impl.csproj",
-      "packagesPath": "C:\\Users\\yaise\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Busines.Impl\\obj\\",
+      "projectPath": "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Busines.Impl\\VY.TestApi.Busines.Impl.csproj",
+      "packagesPath": "C:\\Users\\nelson.jaime\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Busines.Impl\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\yaise\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\nelson.jaime\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5932,17 +5928,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Busines.Contracts\\VY.TestApi.Busines.Contracts.csproj": {
-              "projectPath": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Busines.Contracts\\VY.TestApi.Busines.Contracts.csproj"
+            "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Busines.Contracts\\VY.TestApi.Busines.Contracts.csproj": {
+              "projectPath": "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Busines.Contracts\\VY.TestApi.Busines.Contracts.csproj"
             },
-            "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Data.Contracts\\VY.TestApi.Data.Contracts.csproj": {
-              "projectPath": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Data.Contracts\\VY.TestApi.Data.Contracts.csproj"
+            "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Data.Contracts\\VY.TestApi.Data.Contracts.csproj": {
+              "projectPath": "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Data.Contracts\\VY.TestApi.Data.Contracts.csproj"
             },
-            "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Data.Impl\\VY.TestApi.Data.Impl.csproj": {
-              "projectPath": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Data.Impl\\VY.TestApi.Data.Impl.csproj"
+            "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Data.Impl\\VY.TestApi.Data.Impl.csproj": {
+              "projectPath": "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Data.Impl\\VY.TestApi.Data.Impl.csproj"
             },
-            "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Dtos\\VY.TestApi.Dtos.csproj": {
-              "projectPath": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Dtos\\VY.TestApi.Dtos.csproj"
+            "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Dtos\\VY.TestApi.Dtos.csproj": {
+              "projectPath": "C:\\Users\\nelson.jaime\\source\\repos\\VY.TestApi\\VY.TestApi.Dtos\\VY.TestApi.Dtos.csproj"
             }
           }
         }
