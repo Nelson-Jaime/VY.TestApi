@@ -21,7 +21,7 @@ namespace VY.TestApi.Data.Contracts
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source=RENT019\\SQLEXPRESS;Initial Catalog=Test_Api;Integrated Security=True");
+                optionsBuilder.UseSqlServer("Server=R029JKV\\SQLEXPRESS;Integrated Security=true;Database=Test_Api;MultipleActiveResultSets=true");
             }
         }
 
