@@ -28,3 +28,12 @@ C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\
 C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\ref\VY.TestApi.Busines.Impl.dll
 C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\VY.TestApi.Busines.Impl.pdb
 C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Busines.Impl\obj\Debug\net5.0\VY.TestApi.Busines.Impl.genruntimeconfig.cache
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\VY.TestApi.Busines.Contracts.dll
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\VY.TestApi.Data.Contracts.dll
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\VY.TestApi.Data.Impl.dll
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\VY.TestApi.Dtos.dll
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\VY.TestApi.Busines.Contracts.pdb
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\VY.TestApi.Data.Contracts.pdb
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\VY.TestApi.Data.Impl.pdb
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Busines.Impl\bin\Debug\net5.0\VY.TestApi.Dtos.pdb
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Busines.Impl\obj\Debug\net5.0\VY.TestApi.Busines.Impl.csproj.CopyComplete

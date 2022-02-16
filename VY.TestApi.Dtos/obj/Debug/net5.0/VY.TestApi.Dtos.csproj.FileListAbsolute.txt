@@ -1,0 +1,12 @@
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Dtos\bin\Debug\net5.0\VY.TestApi.Dtos.deps.json
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Dtos\bin\Debug\net5.0\VY.TestApi.Dtos.dll
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Dtos\bin\Debug\net5.0\ref\VY.TestApi.Dtos.dll
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Dtos\bin\Debug\net5.0\VY.TestApi.Dtos.pdb
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Dtos\obj\Debug\net5.0\VY.TestApi.Dtos.csproj.AssemblyReference.cache
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Dtos\obj\Debug\net5.0\VY.TestApi.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Dtos\obj\Debug\net5.0\VY.TestApi.Dtos.AssemblyInfoInputs.cache
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Dtos\obj\Debug\net5.0\VY.TestApi.Dtos.AssemblyInfo.cs
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Dtos\obj\Debug\net5.0\VY.TestApi.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Dtos\obj\Debug\net5.0\VY.TestApi.Dtos.dll
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Dtos\obj\Debug\net5.0\ref\VY.TestApi.Dtos.dll
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Dtos\obj\Debug\net5.0\VY.TestApi.Dtos.pdb

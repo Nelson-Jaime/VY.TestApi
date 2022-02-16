@@ -38,7 +38,9 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",
+          "VY.TestApi.Busines.Contracts": "1.0.0",
           "VY.TestApi.Busines.Impl": "1.0.0",
+          "VY.TestApi.Dtos": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -1372,16 +1374,65 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
+      "VY.TestApi.Busines.Contracts/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.InMemory": "5.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
+          "VY.TestApi.Dtos": "1.0.0"
+        },
+        "runtime": {
+          "VY.TestApi.Busines.Contracts.dll": {}
+        },
+        "compile": {
+          "VY.TestApi.Busines.Contracts.dll": {}
+        }
+      },
       "VY.TestApi.Busines.Impl/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.InMemory": "5.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
+          "VY.TestApi.Busines.Contracts": "1.0.0",
+          "VY.TestApi.Data.Contracts": "1.0.0",
+          "VY.TestApi.Data.Impl": "1.0.0",
+          "VY.TestApi.Dtos": "1.0.0"
         },
         "runtime": {
           "VY.TestApi.Busines.Impl.dll": {}
         },
         "compile": {
           "VY.TestApi.Busines.Impl.dll": {}
+        }
+      },
+      "VY.TestApi.Data.Contracts/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.InMemory": "5.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0"
+        },
+        "runtime": {
+          "VY.TestApi.Data.Contracts.dll": {}
+        },
+        "compile": {
+          "VY.TestApi.Data.Contracts.dll": {}
+        }
+      },
+      "VY.TestApi.Data.Impl/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.InMemory": "5.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0"
+        },
+        "runtime": {
+          "VY.TestApi.Data.Impl.dll": {}
+        },
+        "compile": {
+          "VY.TestApi.Data.Impl.dll": {}
+        }
+      },
+      "VY.TestApi.Dtos/1.0.0": {
+        "runtime": {
+          "VY.TestApi.Dtos.dll": {}
+        },
+        "compile": {
+          "VY.TestApi.Dtos.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -3818,7 +3869,27 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
+    "VY.TestApi.Busines.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "VY.TestApi.Busines.Impl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VY.TestApi.Data.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VY.TestApi.Data.Impl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VY.TestApi.Dtos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
