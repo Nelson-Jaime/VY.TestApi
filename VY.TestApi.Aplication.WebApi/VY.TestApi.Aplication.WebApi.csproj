@@ -18,4 +18,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VY.TestApi.Busines.Contracts\VY.TestApi.Busines.Contracts.csproj" />
+    <ProjectReference Include="..\VY.TestApi.Busines.Impl\VY.TestApi.Busines.Impl.csproj" />
+    <ProjectReference Include="..\VY.TestApi.Dtos\VY.TestApi.Dtos.csproj" />
+  </ItemGroup>
+
 </Project>

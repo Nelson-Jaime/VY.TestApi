@@ -11,6 +11,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using VY.TestApi.Data.Contracts;
 
 namespace VY.TestApi.Aplication.WebApi
 {
@@ -32,6 +33,7 @@ namespace VY.TestApi.Aplication.WebApi
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "VY.TestApi.Aplication.WebApi", Version = "v1" });
             });
+            services.AddDbContext<TestApiDbContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

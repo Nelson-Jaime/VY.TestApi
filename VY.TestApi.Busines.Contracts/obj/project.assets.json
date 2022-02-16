@@ -1531,6 +1531,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "VY.TestApi.Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/VY.TestApi.Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VY.TestApi.Dtos.dll": {}
+        }
       }
     }
   },
@@ -5813,6 +5823,11 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "VY.TestApi.Dtos/1.0.0": {
+      "type": "project",
+      "path": "../VY.TestApi.Dtos/VY.TestApi.Dtos.csproj",
+      "msbuildProject": "../VY.TestApi.Dtos/VY.TestApi.Dtos.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5820,7 +5835,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
       "Microsoft.EntityFrameworkCore.InMemory >= 5.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.0"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.0",
+      "VY.TestApi.Dtos >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5854,7 +5870,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Dtos\\VY.TestApi.Dtos.csproj": {
+              "projectPath": "C:\\Users\\yaise\\Source\\Repos\\VY.TestApi\\VY.TestApi.Dtos\\VY.TestApi.Dtos.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

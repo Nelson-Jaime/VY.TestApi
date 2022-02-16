@@ -116,3 +116,5 @@ C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Aplication.WebApi\obj\Debug\ne
 C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Aplication.WebApi\obj\Debug\net5.0\ref\VY.TestApi.Aplication.WebApi.dll
 C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Aplication.WebApi\obj\Debug\net5.0\VY.TestApi.Aplication.WebApi.pdb
 C:\Users\yaise\source\repos\VY.TestApi\VY.TestApi.Aplication.WebApi\obj\Debug\net5.0\VY.TestApi.Aplication.WebApi.genruntimeconfig.cache
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Aplication.WebApi\bin\Debug\net5.0\VY.TestApi.Busines.Impl.dll
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Aplication.WebApi\bin\Debug\net5.0\VY.TestApi.Busines.Impl.pdb

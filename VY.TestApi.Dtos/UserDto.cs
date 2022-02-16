@@ -1,5 +1,5 @@
 ﻿using System;
-using VY.TestApi.Aplication.Console.Data;
+
 
 namespace VY.TestApi.Dtos
 {
@@ -9,6 +9,6 @@ namespace VY.TestApi.Dtos
         public string Name { get; set; }
         public string Email { get; set; }
 
-        public virtual ProductDto fk_Product { get; set; }
+        public virtual ProductDto Fk_Product { get; set; }
     }
 }

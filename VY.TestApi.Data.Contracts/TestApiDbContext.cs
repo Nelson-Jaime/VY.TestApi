@@ -4,21 +4,18 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 #nullable disable
 
-namespace VY.TestApi.Aplication.Console.Data
+namespace VY.TestApi.Data.Contracts
 {
     public partial class TestApiDbContext : DbContext
     {
-        public TestApiDbContext()
-        {
-        }
-
         public TestApiDbContext(DbContextOptions<TestApiDbContext> options)
             : base(options)
         {
+            Database.EnsureCreated();
         }
 
-        public virtual DbSet<Product> Products { get; set; }
-        public virtual DbSet<User> Users { get; set; }
+        public virtual DbSet<ProductEntities> Products { get; set; }
+        public virtual DbSet<UserEntities> Users { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -30,7 +27,7 @@ namespace VY.TestApi.Aplication.Console.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Product>(entity =>
+            modelBuilder.Entity<ProductEntities>(entity =>
             {
                 entity.ToTable("Product");
 
@@ -55,7 +52,7 @@ namespace VY.TestApi.Aplication.Console.Data
                     .HasColumnName("price");
             });
 
-            modelBuilder.Entity<User>(entity =>
+            modelBuilder.Entity<UserEntities>(entity =>
             {
                 entity.ToTable("User");
 
@@ -75,9 +72,9 @@ namespace VY.TestApi.Aplication.Console.Data
                     .IsUnicode(false)
                     .HasColumnName("name");
 
-                entity.HasOne(d => d.IdNavigation)
+                entity.HasOne(d => d.Fk_Product)
                     .WithOne(p => p.User)
-                    .HasForeignKey<User>(d => d.Id)
+                    .HasForeignKey<UserEntities>(d => d.Id)
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FK_User_Product");
             });

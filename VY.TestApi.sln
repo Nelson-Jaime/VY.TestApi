@@ -7,21 +7,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Aplication", "01. Aplic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VY.TestApi.Aplication.WebApi", "VY.TestApi.Aplication.WebApi\VY.TestApi.Aplication.WebApi.csproj", "{5C503B4E-002A-4CD3-A086-AA8E2C24A122}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Data", "02. Data", "{FE42A805-A819-477E-9252-E7925459DC8D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Data", "03. Data", "{FE42A805-A819-477E-9252-E7925459DC8D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VY.TestApi.Data.Contracts", "VY.TestApi.Data.Contracts\VY.TestApi.Data.Contracts.csproj", "{82FE935B-5E48-4BF1-975B-50DCD341C02E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VY.TestApi.Data.Impl", "VY.TestApi.Data.Impl\VY.TestApi.Data.Impl.csproj", "{3C9F7483-537D-4738-8035-B3416CECD301}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Busines", "03. Busines", "{3230F8CD-6913-427B-B91A-B0E14D140D5E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Busines", "02. Busines", "{3230F8CD-6913-427B-B91A-B0E14D140D5E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VY.TestApi.Busines.Contracts", "VY.TestApi.Busines.Contracts\VY.TestApi.Busines.Contracts.csproj", "{B9985630-04CE-48AC-B6BB-47CF961E76FD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VY.TestApi.Busines.Impl", "VY.TestApi.Busines.Impl\VY.TestApi.Busines.Impl.csproj", "{9EAED778-64AB-4E5C-9B33-2D7345DC9A86}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Dtos", "04. Dtos", "{71B5D49B-0DCF-4C96-9D60-2DCE0B97F806}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Dtos", "05. Dtos", "{71B5D49B-0DCF-4C96-9D60-2DCE0B97F806}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VY.TestApi.Dtos", "VY.TestApi.Dtos\VY.TestApi.Dtos.csproj", "{29D5AAE0-01DB-4EB8-AC3D-3459D89505FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Infrastructure", "04. Infrastructure", "{3EAB1E55-2D5D-4EA3-A1F3-5AB5C182D815}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
