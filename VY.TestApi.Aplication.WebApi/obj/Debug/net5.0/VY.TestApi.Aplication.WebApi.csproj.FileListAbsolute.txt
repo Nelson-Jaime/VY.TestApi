@@ -57,8 +57,6 @@ C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.WebApi\obj\D
 C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.WebApi\obj\Debug\net5.0\ref\VY.TestApi.Aplication.WebApi.dll
 C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.WebApi\obj\Debug\net5.0\VY.TestApi.Aplication.WebApi.pdb
 C:\Users\nelson.jaime\source\repos\VY.TestApi\VY.TestApi.Aplication.WebApi\obj\Debug\net5.0\VY.TestApi.Aplication.WebApi.genruntimeconfig.cache
-C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Aplication.WebApi\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Aplication.WebApi\bin\Debug\net5.0\appsettings.json
 C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Aplication.WebApi\bin\Debug\net5.0\VY.TestApi.Aplication.WebApi.exe
 C:\Users\yaise\source\repos\VY.TestApi\VY.TestApi.Aplication.WebApi\bin\Debug\net5.0\VY.TestApi.Aplication.WebApi.deps.json
 C:\Users\yaise\source\repos\VY.TestApi\VY.TestApi.Aplication.WebApi\bin\Debug\net5.0\VY.TestApi.Aplication.WebApi.runtimeconfig.json
@@ -126,3 +124,5 @@ C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Aplication.WebApi\bin\Debug\ne
 C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Aplication.WebApi\bin\Debug\net5.0\VY.TestApi.Dtos.pdb
 C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Aplication.WebApi\bin\Debug\net5.0\VY.TestApi.Data.Contracts.pdb
 C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Aplication.WebApi\bin\Debug\net5.0\VY.TestApi.Data.Impl.pdb
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Aplication.WebApi\bin\Debug\net5.0\Configuration\appsettings.Development.json
+C:\Users\yaise\Source\Repos\VY.TestApi\VY.TestApi.Aplication.WebApi\bin\Debug\net5.0\Configuration\appsettings.json
