@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://vueling.pkgs.visualstudio.com/_packaging/vy-nuget/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -115,7 +116,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://vueling.pkgs.visualstudio.com/_packaging/vy-nuget/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -195,7 +197,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://vueling.pkgs.visualstudio.com/_packaging/vy-nuget/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -284,7 +287,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://vueling.pkgs.visualstudio.com/_packaging/vy-nuget/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -360,7 +364,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://vueling.pkgs.visualstudio.com/_packaging/vy-nuget/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -440,7 +445,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://vueling.pkgs.visualstudio.com/_packaging/vy-nuget/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {

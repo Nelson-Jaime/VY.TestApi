@@ -18,8 +18,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repositories\" />
     <Folder Include="Registration\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VY.TestApi.Data.Contracts\VY.TestApi.Data.Contracts.csproj" />
   </ItemGroup>
 
 </Project>
